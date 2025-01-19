@@ -21,7 +21,9 @@ This project is a responsive and visually accurate clone of the Amazon website c
 
 ## Screenshots
 
-![Project Screenshot](screenshot.png)
+![Image](https://github.com/user-attachments/assets/ad713f9b-48a9-455f-92b7-0cbb047e91d1)
+
+![Image](https://github.com/user-attachments/assets/f7b4843f-7750-4fd8-83e6-81def49ce663)
 
 ## How to Run
 
